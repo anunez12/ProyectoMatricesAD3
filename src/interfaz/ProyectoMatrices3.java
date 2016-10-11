@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 /**
- *                    
+ *                         
  * @author SP
  */
 public class ProyectoMatrices3 extends javax.swing.JFrame {
