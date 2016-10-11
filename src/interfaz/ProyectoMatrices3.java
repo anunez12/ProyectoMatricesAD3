@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 /**
- *
+ *                    
  * @author SP
  */
 public class ProyectoMatrices3 extends javax.swing.JFrame {
@@ -219,6 +219,7 @@ public class ProyectoMatrices3 extends javax.swing.JFrame {
         jLabel6.setText("Letras");
         jPanel4.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 220, 50, -1));
 
+        txtCaracol.setEditable(false);
         txtCaracol.setColumns(20);
         txtCaracol.setFont(new java.awt.Font("MS Mincho", 2, 18)); // NOI18N
         txtCaracol.setForeground(new java.awt.Color(204, 0, 255));
